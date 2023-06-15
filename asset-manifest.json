@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/regu-servis/static/css/main.d55f15a3.css",
+    "main.js": "/regu-servis/static/js/main.273b12e2.js",
+    "static/js/787.e8c45e05.chunk.js": "/regu-servis/static/js/787.e8c45e05.chunk.js",
+    "static/media/hero-bg.jpg": "/regu-servis/static/media/hero-bg.dcebf698071ca1954bd4.jpg",
+    "index.html": "/regu-servis/index.html",
+    "main.d55f15a3.css.map": "/regu-servis/static/css/main.d55f15a3.css.map",
+    "main.273b12e2.js.map": "/regu-servis/static/js/main.273b12e2.js.map",
+    "787.e8c45e05.chunk.js.map": "/regu-servis/static/js/787.e8c45e05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d55f15a3.css",
+    "static/js/main.273b12e2.js"
+  ]
+}
