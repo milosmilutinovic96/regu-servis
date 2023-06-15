@@ -1,0 +1,17 @@
+header {
+    background-color: teal;
+    height: 2.75rem;
+    padding: .75rem;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+header span {
+    font-weight: bold;
+    color: whitesmoke;
+}
